@@ -6,3 +6,4 @@ In my resources you will find web links and articles related to my interests whi
 Have a look at the corresponding sections:
 
 - [Children's Corner](ChildrensCorner.md)
+- [Music](Music.md)
