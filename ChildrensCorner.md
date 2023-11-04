@@ -9,6 +9,7 @@ General education
 
 Programming
 
+- [Minecraft Hacking](MinecraftHackingForKids.md) - My small summary how Minecraft can be used to tech programming.
 - [Khan Academy](https://www.khanacademy.org)  - Wonderful resource that can in future replace school education.
 - [Brilliant](https://brilliant.org/home/) - Quite expensive but fun general education resource. You will find there a lot of math, computer programming and logic puzzles. Suitable for kids age 6+.
 - [Code.org](https://studio.code.org/catalog) - Has a lot of material and links, especially nice are the Hour of Code tutorials. However this resource is poorly structured and you need to know what you  are looking for.
