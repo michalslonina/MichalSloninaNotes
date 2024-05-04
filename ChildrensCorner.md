@@ -28,5 +28,5 @@ Reading
 Typing
 
 Math
-- [CorbetMaths]https://corbettmaths.com/contents/ - excelent resource with many videos, examples, worksheets
-- [MathAids]https://www.math-aids.com/ - another excelent resource
+- [CorbetMaths](https://corbettmaths.com/contents/) - excelent resource with many videos, examples, worksheets
+- [MathAids](https://www.math-aids.com/) - another excelent resource

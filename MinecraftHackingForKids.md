@@ -25,3 +25,6 @@ The documentation for MCPI API can be found here:
 
 - https://pimylifeup.com/minecraft-pi-edition-api-reference/
 
+A very nice resource describing how to set up Minecraft Java Edition with RaspberryJuice is here:+
+https://github.com/stoneskin/python-minecraft
+
