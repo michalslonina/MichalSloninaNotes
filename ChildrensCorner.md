@@ -30,3 +30,6 @@ Typing
 Math
 - [CorbetMaths](https://corbettmaths.com/contents/) - excelent resource with many videos, examples, worksheets
 - [MathAids](https://www.math-aids.com/) - another excelent resource
+
+Crossword Puzzles
+- [Rudolph Academy](https://rudolphacademy.com/) - lots of excelent math and bussiness crossword puzzles
