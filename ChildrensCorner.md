@@ -33,3 +33,6 @@ Math
 
 Crossword Puzzles
 - [Rudolph Academy](https://rudolphacademy.com/) - lots of excelent math and bussiness crossword puzzles
+
+Youtube Educational Channels
+- https://www.youtube.com/@crashcourse - basic physics, astronomy, biology in 10min lessons
