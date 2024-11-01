@@ -36,3 +36,4 @@ Crossword Puzzles
 
 Youtube Educational Channels
 - https://www.youtube.com/@crashcourse - basic physics, astronomy, biology in 10min lessons
+- https://www.youtube.com/@astrumspace - full documentaries with very good explenations about light
