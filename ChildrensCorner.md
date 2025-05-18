@@ -13,6 +13,7 @@ Programming
 - [Khan Academy](https://www.khanacademy.org)  - Wonderful resource that can in future replace school education.
 - [Brilliant](https://brilliant.org/home/) - Quite expensive but fun general education resource. You will find there a lot of math, computer programming and logic puzzles. Suitable for kids age 6+.
 - [Code.org](https://studio.code.org/catalog) - Has a lot of material and links, especially nice are the Hour of Code tutorials. However this resource is poorly structured and you need to know what you  are looking for.
+- [PunkJazz](https://punkjazz.org/programming-time/) - A lot of open source programming card games and a nice blog on how to teach a child basic programin in 1 year.
 
 Programming games
 
